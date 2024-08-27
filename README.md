@@ -1,4 +1,4 @@
-# Tour Hydroponique - MIoT
+# Tour Hydroponique
 
 Projet de tour hydroponique "ponemonique".
 
